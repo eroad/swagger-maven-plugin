@@ -53,7 +53,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <com.fasterxml.jackson.core.version>2.10.1</com.fasterxml.jackson.core.version>
-        <com.google.guava.version>28.1-jre</com.google.guava.version>
+        <com.google.guava.version>32.0.0-jre</com.google.guava.version>
         <groovy.version>1.8.0</groovy.version>
         <groovy.eclipse.compiler.version>2.7.0-01</groovy.eclipse.compiler.version>
         <groovy-eclipse-batch.version>2.0.4-04</groovy-eclipse-batch.version>
